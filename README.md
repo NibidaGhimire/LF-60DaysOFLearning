@@ -1,11 +1,18 @@
-# LF-60DaysOFLearning
+**June 3**
 
-My Learnings for 60 Days of Learning Challenge by LEapfrog Student Partnership Program.
+Today I continued learning about Analyzing Tabular Data with  Pandas where I learned:
 
-# 1 Day = 1 Branch
+- ***Working with Dates,***
+- ***Grouping and Aggregation,***
+- ***Merging data from multiple sources,***
+- ***Writing Data back to CSV files,***
+- ***Basic Plotting with Pandas.***
 
-Links to go to branch:
+I  also studied DBMS for tommorrow’s assessment where I learned about:
 
-**[D1 - June1](https://github.com/NibidaGhimire/LF-60DaysOFLearning/tree/D1-June1)**
-
-**[D1 - June2](https://github.com/NibidaGhimire/LF-60DaysOFLearning/tree/D2-June2)**
+- ***Data  Independence and Data Abstraction,***
+- ***Schema and Instance,***
+- ***Database Architecture,***
+- ***Data Models,***
+- ***ER Diagram,***
+- ***Data Constraints and Normalization.***
